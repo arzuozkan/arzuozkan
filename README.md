@@ -6,7 +6,7 @@
 [<img align="left" alt="LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/arzu-b959bb1a6/
+[linkedin]: https://www.linkedin.com/in/arzuozkan/
   
  <br />
 
