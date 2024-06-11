@@ -14,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kotlin,py,kubernetes,docker,linux,ansible," />
+    <img src="https://skillicons.dev/icons?i=git,kotlin,py,kubernetes,docker,linux,ansible,bash" />
   </a>
 </p>
 
