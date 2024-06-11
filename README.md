@@ -3,20 +3,19 @@
 
 <h3 align="left">Connect Me:</h3>
  
-[<img align="left" alt="LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" />][linkedin]
-
+[<img align="left" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/arzuozkan/
   
  <br />
+ <br />
 
   
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="29" height="29"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="29" height="29"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="29" height="29"/> </a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kotlin,py,kubernetes,docker,linux,ansible," />
+  </a>
+</p>
+
   
