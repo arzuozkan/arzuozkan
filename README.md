@@ -19,9 +19,13 @@
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=git,kotlin,py,kubernetes,docker,linux,ansible,bash,aws" />
+    <span style="display: inline-flex; align-items: center; justify-content: center; ">
+      <img src="https://github.com/logo/splunk/blob/master/images/logo-white.svg" style=" width:50px; height: 50px;">
+    </span>
   </a>
 </p>
+
 
   
