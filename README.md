@@ -1,9 +1,9 @@
 <div align="center">
   <img alt="GIF" align="center" src=https://github.com/arzuozkan/arzuozkan/blob/main/hi.gif>
 
-<h3 align="left">Blog & Social:</h3>
+### Blog & Social
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/arzuozkan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -13,19 +13,21 @@
   </a>
 </p>
 
- <br />
- <br />
-
   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git,kotlin,py,kubernetes,docker,linux,ansible,bash,aws" />
-    <span style="display: inline-flex; align-items: center; justify-content: center; ">
-      <img src="https://github.com/logo/splunk/blob/master/images/logo-white.svg" style=" width:50px; height: 50px;">
-    </span>
-  </a>
-</p>
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+
+
 
 
   
